@@ -1,0 +1,6 @@
+name = "Github Connect (powered by Wconsumer)"
+description = GitHub Connect (powered by Wconsumer)
+core = 7.x
+php = 5.3
+
+dependencies[] = wconsumer
