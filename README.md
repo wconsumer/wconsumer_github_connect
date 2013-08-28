@@ -1,4 +1,4 @@
-wconsumer_github_connect
+Connect with GitHub (wconsumer)
 ========================
 
 Implements "Connect with GitHub" feature allowing user to sign in or sign up with his GitHub account. 
